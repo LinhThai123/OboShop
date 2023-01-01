@@ -41,7 +41,7 @@ To access url ```/admin``` to get admin pages.
 - [Maven](https://mvnrepository.com/) - Dependency Management
 
 ## Author
-[Trinh Minh Thuy](https://github.com/minhthuy30197)
+[Nguyễn Văn Linh](https://github.com/LinhThai123/OboShop.git)
 
 
 ------------
